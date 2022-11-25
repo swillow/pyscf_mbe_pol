@@ -1,0 +1,8 @@
+{
+    "fname_xyz" : "w32.xyz",
+    "box" : [9.858, 9.858, 9.858],
+    "basis" : "aug-cc-pvdz",
+    "_comment_l_mp2": "if true, then MP2, if false, then SCS-MP2",
+    "l_mp2" : true,
+    "fname_grd" : "mp2_pol_w32.grd"
+}
